@@ -57,9 +57,4 @@ E370		Baldo, Jason			42,000.00
 E371		Hernandez, Timothy		29,000.00
 E372		Cruz, Ricardo			37,000.00
 
-INSTRUCTIONS:
-You are not allowed to alter the composition of the domain objects.  Stick to the design. Disregard the data in the csv if it is not necessary to the object.
-Adhere to correct naming conventions in naming variables and objects.
-Use hashmap as your solution to the problem.
-Use the department.setDepTotalSalary() in putting the aggregated value into the object.  Do not just use the salary accumulation approach in the printing process to get the depTotalSalary.
-Submit the Github solution link provided in NEUVLE.
+
